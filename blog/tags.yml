@@ -17,8 +17,3 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
-
-greetings:
-  label: greetings
-  permalink: /greetings
-  description: Greetings tag description
